@@ -1,75 +1,47 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# GAMDLE – Elegant Handmade Accessories 📿
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern e-commerce web application for handmade jewelry and accessories crafted from Miyuki beads.
 
-## Available Scripts
+## 🌐 Live Website
 
-In the project directory, you can run:
+[https://gamdle-simaalrifai.netlify.app/](https://gamdle-simaalrifai.netlify.app/)
 
-### `npm start`
+## 📋 Project Description
+GAMDLE is a ReactJS frontend web application built as Phase 2 of the CSCI390 Web Programming project.
+It showcases handmade accessories including necklaces, rings, bracelets, brooches, and keychains.
+The app includes 6 pages, an interactive shopping cart, photo gallery with lightbox, and multiple payment methods.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📄 Pages
+- **Home** – Hero section, features, and brand story
+- **Products** – 12 product cards with Add to Cart
+- **Gallery** – Photo grid with lightbox popup
+- **About** – Brand story and Miyuki timeline
+- **Contact** – Contact form with validation
+- **Cart** – Order summary, total price, and payment options (Card, Cash, OMT)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Technologies Used
+- ReactJS 18
+- React Router DOM
+- CSS3 with custom variables
+- Google Fonts (Playfair Display, Cormorant Garamond)
+- Git & GitHub
+- Netlify (deployment)
 
-### `npm test`
+## ⚙️ Setup Instructions
+1. Clone the repository:
+git clone https://github.com/82330138/GAMDLE.git
+2. Navigate to the project folder:
+cd GAMDLE
+3. Install dependencies:
+npm install
+4. Run the app:
+npm start
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# GAMDLE
-GAMDLE - Elegant Handmade Accessories Website (Phase 2)
->>>>>>> 9fe66ab8a30d44c78262ebc91855d156d9c61a0f
+## 👩‍💻 Developer
+- **Sima Al Rifai** – ID: 82330138
+- Amar Moawiya **** - ID: 82310054
+- Course: CSCI390 Web Programming
+- Lebanese International University
+- Dr. Mohamad El Siblani
+- SPRING-2026-24-MAY
