@@ -140,17 +140,16 @@ body {
   font-weight: 700;
   color: var(--crimson);
   letter-spacing: 12px;
-  text-shadow: 2px 4px 24px rgba(0,0,0,0.4);
+  text-shadow: 0 0 20px rgba(255,50,50,0.8), 0 0 40px rgba(255,50,50,0.5), 0 0 80px rgba(255,50,50,0.3);
   animation: fadeDown 0.9s ease both;
 }
-
 .hero h2 {
   font-family: 'Playfair Display', serif;
   font-size: clamp(1.4rem, 3vw, 2.2rem);
   color: var(--olive);
   font-style: italic;
   margin: 12px 0 8px;
-  text-shadow: 2px 2px 12px rgba(0,0,0,0.30);
+  text-shadow: 0 0 20px rgba(154,170,0,0.9), 0 0 40px rgba(154,170,0,0.6), 0 0 80px rgba(154,170,0,0.3);
   animation: fadeDown 0.9s 0.15s ease both;
 }
 .hero p {
